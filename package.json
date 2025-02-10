@@ -1,0 +1,14 @@
+{
+  "name": "ioupg-reborn",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
