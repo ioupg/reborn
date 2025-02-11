@@ -1,4 +1,20 @@
-h1 {
-  color: hotpink;
-  font-family: cursive;
+html, body {
+  background-color: #101040;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#display {
+  display: block;
+  width: auto;
+  height: auto;
+  image-rendering: pixelated;
+  scale: 2;
+  box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.75);
 }
