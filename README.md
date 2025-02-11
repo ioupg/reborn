@@ -10,7 +10,7 @@ Target best practices of modern web and game development (to the reasonable exte
 
 Sub-goal - evaluate usefulness of current gen coding assistants in this application.
 
-See the documentation dir and [milestones plan](docs/milestones.md) plan for further information.
+See the documentation dir and [milestones plan](docs/milestones.md) for further information.
 
 ## Technology stack
 
