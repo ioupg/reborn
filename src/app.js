@@ -1,1 +1,3 @@
-console.log('Hello world!');
+import { log as mylog } from './logger';
+
+mylog('Hello, ','world!');
