@@ -1,4 +1,4 @@
-import { lerp, smooth } from './mathUtils';
+import { lerp, smooth } from './math';
 
 export function hexToRGBA(hex: string): number {
     const val = parseInt(hex.slice(1), 16);

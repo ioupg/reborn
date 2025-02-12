@@ -1,4 +1,4 @@
-import { lerp, smooth, clamp } from './mathUtils';
+import { lerp, smooth, clamp } from './math';
 
 describe('mathUtils', () => {
     describe('lerp', () => {

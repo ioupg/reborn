@@ -6,6 +6,10 @@
       "lib": ["ES2020", "DOM", "DOM.Iterable"],
       "skipLibCheck": true,
       "outDir": "./dist",
+      "baseUrl": "./src",
+      "paths": {
+        "@bedrock/*": ["./bedrock/*"],
+      },
   
       /* Bundler mode */
       "moduleResolution": "bundler",
