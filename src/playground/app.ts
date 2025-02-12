@@ -1,4 +1,4 @@
-import { hexToRGBA, lerpPalette } from './color';
+import { hexToRGBA, lerpPalette } from '@bedrock/utils/color';
 
 const fancyColors: string[] = [
   "#f5c851", "#63a48e", "#f2eac3", "#e73427", "#0e7395", "#efd1b5",
