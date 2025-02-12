@@ -44,8 +44,8 @@ Then perform initial npm package installation in the project and run `npm start`
 ```bash
 > cd <project-directory>
 > npm install
-> npm start
-# Server running at http://localhost:1234
+> npm dev
+# Local:   http://localhost:8888/
 ```
 
 Voila!
